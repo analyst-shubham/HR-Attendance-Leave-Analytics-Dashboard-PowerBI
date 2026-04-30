@@ -4,7 +4,7 @@ A Power BI dashboard for analyzing employee attendance,
 leave patterns, and work-from-home trends across multiple months.
 
 ## 📊 Live Dashboard Preview
-!(dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.jpg)
 
 ## Project Overview
 This project analyzes HR attendance data for 50+ employees transforming raw Excel attendance 
