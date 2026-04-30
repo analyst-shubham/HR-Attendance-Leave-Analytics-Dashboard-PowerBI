@@ -3,7 +3,7 @@
 A Power BI dashboard for analyzing employee attendance, 
 leave patterns, and work-from-home trends across multiple months.
 
-## 📊 Live Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](dashboard_preview.jpg)
 
 ## Project Overview
@@ -56,6 +56,6 @@ sheets into an interactive analytics dashboard.
 - Best attendance day: **Monday (93.3%)**
 - Most WFH day: **Friday (13.1%)**
 
-## Author
+## By
 **[Your Name]**  
 Shubham Kumar Bhakta
