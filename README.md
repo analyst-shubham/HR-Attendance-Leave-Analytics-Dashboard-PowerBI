@@ -7,7 +7,7 @@ leave patterns, and work-from-home trends across multiple months.
 ![Dashboard Preview](dashboard_preview.jpg)
 
 ## Project Overview
-This project analyzes HR attendance data for 50+ employees transforming raw Excel attendance 
+This project analyzes HR attendance data for 50+ employees, transforming raw Excel attendance 
 sheets into an interactive analytics dashboard.
 
 ## Tech Stack
@@ -17,10 +17,10 @@ sheets into an interactive analytics dashboard.
 - **Excel** — Source data.
 
 ## Key Features
-- Automated monthly data refresh using Parameters & Custom Functions.
+- Automated monthly data refresh using Parameters & Custom Functions in powerquery.
 - Attendance %, WFH %, SL % KPI tracking.
-- Color-coded employee attendance heatmap.
-- Leave type breakdown. (PL, SL, WFH, LWP, BRL, ML and more)
+- Employee attendance heatmap.
+- Leave type breakdown. (PL, SL, WFH, LWP, BRL, ML, and more)
 - Day-of-week attendance & WFH pattern analysis.
 - Low-attendance employee identification.
 - Monthly trend lines for Attendance, WFH and Sick Leave.
@@ -57,5 +57,4 @@ sheets into an interactive analytics dashboard.
 - Most WFH day: **Friday (13.1%)**
 
 ## By
-**[Your Name]**  
 Shubham Kumar Bhakta
