@@ -1,7 +1,7 @@
 # HR-Attendance-Leave-Analytics-Dashboard-PowerBI
 
 A Power BI dashboard for analyzing employee attendance, 
-leave patterns, and work-from-home trends across multiple months.
+leave patterns, and work-from-home trends across multiple months for 80+ employees of a company.
 
 ## Dashboard Preview
 ![Dashboard Preview](dashboard_preview.jpg)
