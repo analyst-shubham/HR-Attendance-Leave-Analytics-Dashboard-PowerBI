@@ -54,5 +54,7 @@ leave patterns, and work-from-home trends across multiple months for 80+ employe
 | `Attendance-Sheet-2022.xlsx` | Source Excel data |
 | `dashboard_preview.jpg` | Dashboard screenshot |
 
-## By
-Shubham Kumar Bhakta
+By Shubham Bhakta
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhambhakta/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shubham.kr1204@gmail.com)
